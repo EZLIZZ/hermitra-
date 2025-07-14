@@ -18,7 +18,7 @@ HerMitra is a full-stack, bilingual health-tech platform designed to support wom
 
 ---
 
-### 🔗 Live Demo
+### 🔗 Demo Video
 
 ## 🚀 Tech Stack
 
