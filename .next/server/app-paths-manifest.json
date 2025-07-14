@@ -1,0 +1,9 @@
+{
+  "/dashboard/ultrasound/page": "app/dashboard/ultrasound/page.js",
+  "/dashboard/tracker/page": "app/dashboard/tracker/page.js",
+  "/about/page": "app/about/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/signup/page": "app/signup/page.js"
+}
