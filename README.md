@@ -50,20 +50,34 @@ pip install -r requirements.txt
 ```
 
 ## Running the Project
+---
+
+## ▶️ Running the Project
+
+### Start the Frontend (Next.js or React)
+```bash
 cd frontend
+npm install
 npm run dev
+
 cd ../backend
+npm install
 npm run dev
+
 cd ../ai
+pip install -r requirements.txt
 python app.py
 
+```
 
+
+👩‍💻 Team & Credits
 Developed during the Shequal Hackathon 2025 by a passionate team:
 
-AI & Backend: Alisha Shrestha
+🧠 AI & Backend: Alisha Shrestha
 
-Frontend: Nandani
+🎨 Frontend: Nandani
 
-Pitch & Presentation: Rashya
+🎤 Pitch & Presentation: Rashya
 
-Special thanks to our amazing mentors for their constant guidance and feedback.
+Special thanks to our amazing mentors for their constant guidance and support. 💜
