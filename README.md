@@ -1,17 +1,24 @@
 ## Introducing HerMitra – A Smart Companion for PCOS Detection & Care 
 HerMitra is a full-stack, bilingual health-tech platform designed to support women in navigating PCOS through detection, prevention, and daily care.
 💡 HerMitra is more than just a website — it’s a digital health companion tailored for the Nepali context, available in both Nepali and English.
-###🔍 Key Features:
--🧠 Self-assessment for early PCOS screening
--🖼️ AI-powered ultrasound cyst detection
--📅 Period tracker with predictions & logging
--🏃‍♀️ Exercise tracker for healthy routine building
--📓 Daily lifestyle & symptom journal
--🧑‍⚕️ Expert page for fast access to healthcare providers
--🥗 Nutrition guide with PCOS-friendly Nepali foods
--📊 Interactive dashboard to track various progress
--🌐 Bilingual support (English + Nepali)
-###live demo: https://bit.ly/450mMzr
+
+---
+
+### 🔍 Key Features
+
+- 🧠 **Self-assessment** for early PCOS screening  
+- 🖼️ **AI-powered ultrasound cyst detection**  
+- 📅 **Period tracker** with predictions & logging  
+- 🏃‍♀️ **Exercise tracker** for healthy routine building  
+- 📓 **Daily lifestyle & symptom journal**  
+- 🧑‍⚕️ **Expert page** for fast access to healthcare providers  
+- 🥗 **Nutrition guide** with PCOS-friendly Nepali foods  
+- 📊 **Interactive dashboard** to track various progress  
+- 🌐 **Bilingual support** – English + Nepali  
+
+---
+
+### 🔗 Live Demo
 
 ## 🚀 Tech Stack
 
