@@ -24,7 +24,7 @@ HerMitra is a full-stack, bilingual health-tech platform designed to support wom
 
 | Layer      | Tech Used                        |
 |------------|----------------------------------|
-| Frontend   | React / Next.js, Tailwind CSS    |
+| Frontend   | Next.js, Tailwind CSS    |
 | Backend    | Node.js, Express, MongoDB, JWT   |
 | AI Model   | Python, Flask, TensorFlow, Keras |
 
